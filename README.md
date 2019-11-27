@@ -1,5 +1,5 @@
 # email_promo-indeedjobsupdate
-Clone of an email from indeed jobs updates
+This is a clone of an email i received from indeed staffing agency. Indeed is a reputable leader in the staffing industry and a trend-setter. Many of the IT veterans i follow for advice commonly use Indeed to research salaries, job availablity in different parts of the country, and trends in the web development world. Indeed's postings include a wealth of information about each company. 
 
 https://jerome-wilson-developer.github.io/email_promo-indeedjobsupdate/
 
